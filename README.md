@@ -2,7 +2,7 @@
 
 Marcos Paulo de Arruda Teixeira, 22 Anos. <br>Estudante de Analise e Desenvolvimento de Sistema (*Universidade Estácio de Sá*) <br>
 
-![arrudev's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrudev&show_icons=true&theme=transparent)
+<!-- ![arrudev's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrudev&show_icons=true&theme=transparent) -->
 
 ## Tecnologias Utilizadas:
 <div style="display: inline_block"><br/>
