@@ -1,8 +1,8 @@
 ## Resumo
 
 Marcos Paulo de Arruda Teixeira, 23 Anos. <br>
-<br>Analise e Desenvolvimento de Sistema (*Universidade Estácio de Sá*)
-<br>Arquitetura de Software (*Faculminas*)
+<br>Graduado em Analise e Desenvolvimento de Sistema (*Universidade Estácio de Sá*)
+<br>Pós-graduando em Arquitetura de Software (*Faculminas*)
 
 <!-- ![arrudev's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrudev&show_icons=github&theme=transparent)
 ![arrudev's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrudev\&rank_icon=github&theme=transparent)
