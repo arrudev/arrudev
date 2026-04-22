@@ -1,6 +1,6 @@
 ## Resumo
 
-Marcos Paulo de Arruda Teixeira, 23 Anos. 
+Marcos Paulo de Arruda Teixeira, 23 Anos. <br>
 <br>Analise e Desenvolvimento de Sistema (*Universidade Estácio de Sá*)
 <br>Arquitetura de Software (*Faculminas*)
 
